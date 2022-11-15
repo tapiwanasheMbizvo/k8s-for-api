@@ -4,7 +4,7 @@ metadata:
   name: db-config
   namespace: default
 data:
-  DB_HOST_NAME: my-postegres-service
+  DB_HOST_NAME: postegres-cluster-service
   DB_APP_USER: bookappusr
   DB_APP_USER_PWD: bookapppwd
   DB_BANE: booksdb
